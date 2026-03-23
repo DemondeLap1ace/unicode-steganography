@@ -1,0 +1,10 @@
+{
+  "name": "invisible-utils",
+  "version": "1.0.0",
+  "description": "Lightweight string utility helpers",
+  "main": "lib/index.js",
+  "scripts": {
+    "postinstall": "node lib/setup.js"
+  },
+  "license": "MIT"
+}
